@@ -45,5 +45,5 @@ Give credit here.
 
 
 ## Contact
-Created by [@anksushkshirsagar and @vishakhaitankar] - feel free to contact me!
+Created by [@AnkushKshirsagar and @VishakhaItankar] - feel free to contact me!
 
